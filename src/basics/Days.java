@@ -3,12 +3,11 @@ package basics;
 public class Days {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// variable declearation
 			String days = "";
 			
-			switch(days) {
-			
+			switch(days){
+				
 			}
 	}
-
 }
